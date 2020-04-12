@@ -1,0 +1,2 @@
+rootProject.name='屏幕常亮'
+include ':app'
